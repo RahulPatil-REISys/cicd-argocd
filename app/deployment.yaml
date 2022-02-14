@@ -17,4 +17,4 @@ spec:
       - image: rahulpatil1992/myhub:444cf526
         name: node-server
         ports:
-        - containerPort: 3000
+        - containerPort: 8080
